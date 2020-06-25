@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="heightLogoPlatzi">30dp</dimen>
+    <dimen name="heightToolbar">30dp</dimen>
+    <dimen name="cardCornerRadius">4dp</dimen>
+    <dimen name="heightImageViewHome">150dp</dimen>
+    <dimen name="sizeTitleHome">20sp</dimen>
+    <dimen name="marginSubtitleHome">10dp</dimen>
+    <dimen name="marginTopSeparatorView">10dp</dimen>
+    <dimen name="sizeSubtitleHome">15sp</dimen>
+    <dimen name="itemScheduleTitle">22sp</dimen>
+    <dimen name="itemScheduleSubtitle">20sp</dimen>
+    <dimen name="itemScheduleName">18sp</dimen>
+    <dimen name="itemScheduleSpeaker">15sp</dimen>
+    <dimen name="scheduleDetailTitle">20sp</dimen>
+
+</resources>
