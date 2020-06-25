@@ -1,30 +1,17 @@
-# Api de busquedas de establecimientos de gasolina en Mexico
+# PlatziConfApp
 
-> Este repositorio contiene una aplicación web sencilla desarrollada con javascript vanilla para buscar establecimientos de gasolina en Mexico mostrando los resultados con la API de google maps.
+> Kotlin course project for android on platzi. Aplicación para visualizar la información más importante de Platziconf implementando MVVM (Model-View-View-Model)
 
-![Captura de la App](./readme-static/captura.png)
+![Home](./readme-static/Home.jpg)
 
-[Ver la aplicación](https://ricrdomedina.github.io/mexico-establecimientos-gasolina-google-maps/)
+![Schedules](./readme-static/Schedules.jpg)
 
-## Cómo funciona?
+![Schedule Detail](./readme-static/Schedule-Detail.jpg)
 
-Requiere Node.JS 8
+![Speakers](./readme-static/Speakers.jpg)
 
-``` bash
-# Para instalar las dependencias
-npm install
+![Speaker Detail](./readme-static/Speaker-Detail.jpg)
 
-# Para el entorno de desarrollo
-npm run build:dev
+![Ubication Map](./readme-static/Map.jpg)
 
-# Para el entorno de producción
-npm run build:prod
-```
-
-## API
-
-Este proyecto usa la API pública para el precio de la gasolina [https://datos.gob.mx/blog/catalogo-apidatosgobmx]
-
-## Licencia 
-
-MIT
+![Ubication Detail](./readme-static/Ubication-Detail.jpg)
